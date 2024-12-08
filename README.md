@@ -28,7 +28,7 @@ The **dmoney API Testing** project ensures the stability and performance of the 
 ### Steps to Run Tests Locally  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/dmoney-postman-tests.git  
+   git clone https://github.com/Anupa44/Dmoney-api-testing-with-postman.git  
    cd dmoney-postman-tests
 
    
@@ -54,7 +54,7 @@ You can view the complete test case file here:
 The API documentation is generated in Postman and exported as a shareable resource for developers. It helps understand the available endpoints and their functionalities.  
 
 You can view the complete documentation here:  
-- [dmoney API Documentation]([path/to/api-documentation.pdf](https://documenter.getpostman.com/view/31626706/2sAYBd6nQZ))  
+- [dmoney API Documentation](https://documenter.getpostman.com/view/31626706/2sAYBd6nQZ)  
 
 ---
 
